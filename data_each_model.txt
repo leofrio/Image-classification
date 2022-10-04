@@ -1,0 +1,6 @@
+pixels rgba:0.57
+random forest:0.55
+LG:0.6685 
+KNN:0.4699 
+XGB:0.5871 
+SGD:0.61
